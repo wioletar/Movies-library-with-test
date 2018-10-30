@@ -1,0 +1,165 @@
+[
+  {
+    "title": "Kler",
+    "director": {
+      "firstName": "Wojciech",
+      "lastName": "Smarzowski"
+    },
+    "dateOfProduction": "2018-09-28",
+    "genre": "Obyczajowy",
+    "listOfActors": [
+      {
+        "firstName": "Arkadiusz",
+        "lastName": "Jakubik"
+      },
+      {
+        "firstName": "Robert",
+        "lastName": "Węckiewicz"
+      },
+      {
+        "firstName": "Jacek",
+        "lastName": "Braciak"
+      },
+      {
+        "firstName": "Janusz",
+        "lastName": "Gajos"
+      }
+    ]
+  },
+  {
+    "title": "Venom",
+    "director": {
+      "firstName": "Ruben",
+      "lastName": "Fleischerowski"
+    },
+    "dateOfProduction": "2018-10-05",
+    "genre": "Sci-Fi",
+    "listOfActors": [
+      {
+        "firstName": "Tom",
+        "lastName": "Hardy"
+      },
+      {
+        "firstName": "Michelle",
+        "lastName": "Williams"
+      },
+      {
+        "firstName": "Riz",
+        "lastName": "Ahmed"
+      },
+      {
+        "firstName": "Jenny",
+        "lastName": "Slate"
+      }
+    ]
+  },
+  {
+    "title": "Ant-Man i Osa",
+    "director": {
+      "firstName": "Peyton",
+      "lastName": "Reed"
+    },
+    "dateOfProduction": "2018-07-03",
+    "genre": "Sci-Fi",
+    "listOfActors": [
+      {
+        "firstName": "Paul",
+        "lastName": "Rudd"
+      },
+      {
+        "firstName": "Evangeline",
+        "lastName": "Lilly"
+      },
+      {
+        "firstName": "Michael",
+        "lastName": "Douglass"
+      },
+      {
+        "firstName": "Micgelle",
+        "lastName": "Pfeiffer"
+      }
+    ]
+  },
+  {
+    "title": "7 uczuć",
+    "director": {
+      "firstName": "Marek",
+      "lastName": "Koterski"
+    },
+    "dateOfProduction": "2018-10-12",
+    "genre": "Komedia",
+    "listOfActors": [
+      {
+        "firstName": "Michał",
+        "lastName": "Koterski"
+      },
+      {
+        "firstName": "Marcin",
+        "lastName": "Dorociński"
+      },
+      {
+        "firstName": "Katarzyna",
+        "lastName": "Figura"
+      },
+      {
+        "firstName": "Małgorzata",
+        "lastName": "Bogdańska"
+      }
+    ]
+  },
+  {
+    "title": "Serce nie sługa",
+    "director": {
+      "firstName": "Filip",
+      "lastName": "Zylber"
+    },
+    "dateOfProduction": "2018-10-05",
+    "genre": "Komedia rom",
+    "listOfActors": [
+      {
+        "firstName": "Roma",
+        "lastName": "Gąsiorowska"
+      },
+      {
+        "firstName": "Magdalena",
+        "lastName": "Różyczka"
+      },
+      {
+        "firstName": "Borys",
+        "lastName": "Szyc"
+      },
+      {
+        "firstName": "Paweł",
+        "lastName": "Domagała"
+      }
+    ]
+  },
+
+  {
+    "title": "PolandJa",
+    "director": {
+      "firstName": "Cyprian T.",
+      "lastName": "Olencki"
+    },
+    "dateOfProduction": "2017-02-17",
+    "genre": "Komedia obycz.",
+    "listOfActors": [
+      {
+        "firstName": "Izabela",
+        "lastName": "Kuna"
+      },
+      {
+        "firstName": "Grzegorz",
+        "lastName": "Małecki"
+      },
+      {
+        "firstName": "Jakub",
+        "lastName": "Gierszał"
+      },
+      {
+        "firstName": "Paweł",
+        "lastName": "Domagała"
+      }
+    ]
+  }
+]
